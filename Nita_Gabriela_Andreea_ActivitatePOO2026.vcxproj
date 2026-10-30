@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="clasaPetitie.cpp" />
     <ClCompile Include="clasaPlantatie.cpp" />
     <ClCompile Include="clasaSalaEvenimente.cpp" />
   </ItemGroup>
